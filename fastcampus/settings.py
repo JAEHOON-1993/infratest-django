@@ -29,7 +29,8 @@ ALLOWED_HOSTS = [
     'ec2-13-124-146-65.ap-northeast-2.compute.amazonaws.com',
     'ec2-3-36-61-12.ap-northeast-2.compute.amazonaws.com',
     'ELB2-22583416.ap-northeast-2.elb.amazonaws.com',
-    '172.31.40.176'
+    '172.31.40.176',
+    '172.31.4.29'
 ]
 
 
